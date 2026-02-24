@@ -1,2 +1,3 @@
 nombre= "jorjita"
-print("hola" + nombre)
+apellido="cusi cusa"
+print("hola" + nombre+apellido)
